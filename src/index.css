@@ -189,7 +189,11 @@ footer button:hover {
   .sidebarContents {
     margin: unset;
     width: 100%;
+  }
 
-
+  .bgOverlay {
+    right: 0;
+    left: unset;
+    width: 100vw;
   }
 }
